@@ -1,0 +1,7 @@
+git init 
+git commit -m 'first commit'
+git add .
+git add 
+git reset --hard
+git status
+git log --pretty=oneline
