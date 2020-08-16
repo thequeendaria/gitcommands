@@ -5,3 +5,4 @@ git add
 git reset --hard
 git status
 git log --pretty=oneline
+git pull
